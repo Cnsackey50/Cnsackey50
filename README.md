@@ -20,7 +20,12 @@ I'm a passionate **Data Scientist** and **AI Researcher** with a strong foundati
 - Built an **IoT security-based system using Raspberry Pi**  
 - Developed a **Student Grade Prediction Model using Linear Regression**  
 - Conducted a **Sentiment Analysis on AI in Education**  
-- Assisted in **developing a database system for a university basic school**  
+- Assisted in **developing a database system for a university basic school**
+
+  ## 🌱 **Currently Learning**
+- Advanced Neural Networks  
+- Natural Language Processing (NLP)  
+- Real-Time Data Analytics 
 
 
 ## 📈 GitHub Stats  
