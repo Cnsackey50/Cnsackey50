@@ -33,7 +33,7 @@ I'm a passionate **Data Scientist** and **AI Researcher** with a strong foundati
 
 ## 📌 Featured Projects  
 🔹 [**Student Grade Prediction**](https://github.com/Cnsackey50/Student-Grade-Prediction)  
-🔹 [**Sentiment Analysis i**](https://github.com/Cnsackey50/Sentiment-Analysis-AI-Education)  
+🔹 [**Sentiment Analysis i**]([https://github.com/Cnsackey50/Sentiment-Analysis-AI-Education](https://github.com/Cnsackey50/Dataton-Mining/blob/main/Text_Mining_Sentiment_Analysis_UCC%2024.ipynb))  
 🔹 [**IoT Security-Based System**](https://github.com/Cnsackey50/IoT-Security-System)  
 
 ## 📫 Connect With Me  
